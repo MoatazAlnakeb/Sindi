@@ -1,7 +1,10 @@
 # Sindi
+<h1>Anmar SINDI</h1>
 It's an application for tailoring and selling Jalalib and accessories to the well-known Saudi Arabia Sindi company 
 
-Screenshot
+Backend technology : SAP Business One Service Layer
+
+Screenshots :
 <p>
   <img src="15.png" width="150",height="200" />
   <img src="1.png" width="150",height="200" />
@@ -18,4 +21,11 @@ Screenshot
   <img src="12.png" width="150",height="200" />
   <img src="13.png" width="150",height="200" />
   <img src="14.png" width="150",height="200" />
-   </p>
+</p>
+
+Features : 
+Customers managment
+Sales orders managment
+Coupouns & Offers
+Customer sizes
+Shopping Cart
