@@ -24,8 +24,15 @@ Screenshots :
 </p>
 
 Features : 
-Customers managment
-Sales orders managment
-Coupouns & Offers
-Customer sizes
-Shopping Cart
+<ul>
+  <li>Customers managment
+</li>
+  <li>Sales orders managment
+</li>
+  <li>Coupouns & Offers
+</li>
+  <li>Customer sizes
+</li>
+  <li>Shopping Cart
+</li>
+ </ul>
