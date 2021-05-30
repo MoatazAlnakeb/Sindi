@@ -35,4 +35,6 @@ Features :
 </li>
   <li>Shopping Cart
 </li>
+   <li>Barcode Scanner
+</li>
  </ul>
